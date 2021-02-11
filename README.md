@@ -1,7 +1,8 @@
 <H1>A.R.K.A.D.E.R.S.</H1>
 <H2>Advance Robot Killer Apocalyptic Destroyer Extreme Reloaded SuperMECHA</H2>
 
-![img](https://github.com/Gervilla/ARKADERS/blob/master/Portada.PNG)
+![img](https://github.com/Gervilla/ARKADERS/blob/main/Portada.png)
+
 
 <H2>Descripción</H2>
 
